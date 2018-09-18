@@ -466,11 +466,11 @@ function writeMarkdown(markdown, fn) {
 
 [1]: https://prismjs.com/
 [2]: https://marked.js.org/
-[3]: https://buyuanwanli.github.io/AnimationResume/index.html
-[4]: https://github.com/buyuanwanli/AnimationResume
+[3]: https://priceless-agnesi-c4c947.netlify.com/
+[4]: https://github.com/Jean1024/css3-resume
 [a]: http://91jean.oss-cn-hangzhou.aliyuncs.com/18-9-15/24224356.jpg
 
-**——远方不远**
+**——丘比特爱上猫**
 
 
 
