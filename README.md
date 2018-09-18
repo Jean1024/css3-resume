@@ -468,7 +468,7 @@ function writeMarkdown(markdown, fn) {
 [2]: https://marked.js.org/
 [3]: https://priceless-agnesi-c4c947.netlify.com/
 [4]: https://github.com/Jean1024/css3-resume
-[a]: http://91jean.oss-cn-hangzhou.aliyuncs.com/18-9-15/24224356.jpg
+[a]: https://upload-images.jianshu.io/upload_images/5809200-c5f3cb57542e0772.gif?imageMogr2/auto-orient/strip
 
 **——丘比特爱上猫**
 
